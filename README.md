@@ -1,19 +1,20 @@
 # citationgendergap
 A tool for calculating the gender ratio of papers cited in academic studies
 
-Output of this tool: The ratio of male and female authors in an article & uncertainty
-#Tool No.1
+- Output of this tool: The ratio of male and female authors in an article & uncertainty
+<br>
+# Tool No.1
 - Input from user: PDF with full names (MLA citation style)
 - What will this tool do? 
 Extract names and send names to OpenAI API
 
-#Tool No.2 
+# Tool No.2 
 - Input from user: PDF with partial names (APA citation style like Swift, T) + DOIs
 - What will this tool do?
 Step 1: Utilize the OpenCitation API to retrieve names based on the DOI.
 Step 2: Tool No.1
 
-#Tool No.3 
+# Tool No.3 
 - Input from user: PDF with partial names (APA citation style like Swift, T)  without DOIs
 - What will this tool do?
 Step 1: Conduct title search to get DOI of this PDF
