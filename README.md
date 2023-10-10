@@ -6,21 +6,21 @@ A tool for calculating the gender ratio of papers cited in academic studies
 
 # Tool No.1
 - Input from user: PDF with full names (MLA citation style)
-- What will this tool do? 
-Extract names and send names to OpenAI API
+- What will this tool do? <br>
+Extract names and send names to OpenAI API <br>
 
 # Tool No.2 
 - Input from user: PDF with partial names (APA citation style like Swift, T) + DOIs
-- What will this tool do?
-Step 1: Utilize the OpenCitation API to retrieve names based on the DOI.
-Step 2: Tool No.1
+- What will this tool do? <br>
+Step 1: Utilize the OpenCitation API to retrieve names based on the DOI. <br>
+Step 2: Tool No.1 <br>
 
 # Tool No.3 
 - Input from user: PDF with partial names (APA citation style like Swift, T)  without DOIs
-- What will this tool do?
-Step 1: Conduct title search to get DOI of this PDF
-Step 2: Tool No.2 
-Step 3: Tool No.1
+- What will this tool do? <br>
+Step 1: Conduct title search to get DOI of this PDF (Google Schoolar) <br>
+Step 2: Tool No.2 <br>
+Step 3: Tool No.1 <br>
 
 
 # Existing tools to guess gender based on names
