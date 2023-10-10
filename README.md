@@ -3,6 +3,7 @@ A tool for calculating the gender ratio of papers cited in academic studies
 
 - Output of this tool: The ratio of male and female authors in an article & uncertainty
 <br>
+
 # Tool No.1
 - Input from user: PDF with full names (MLA citation style)
 - What will this tool do? 
