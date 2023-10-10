@@ -22,6 +22,11 @@ Step 1: Conduct title search to get DOI of this PDF (Google Schoolar) <br>
 Step 2: Tool No.2 <br>
 Step 3: Tool No.1 <br>
 
+# Tool No.4
+- Input from user: DOI of an article
+- What will this tool do? <br>
+Step 1: Utilize the OpenCitation API to retrieve names based on the DOI. <br>
+Step 2: Tool No.1 <br>
 
 # Existing tools to guess gender based on names
 ## 1. For all languages  
